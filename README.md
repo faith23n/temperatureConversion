@@ -1,2 +1,2 @@
 # temperatureConversion
-A C++ program that displays a temperature conversion
+A C++ program that converts the temperture from Celcius to fahrenheit in java.
